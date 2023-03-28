@@ -1,0 +1,19 @@
+/** @format */
+
+.jumbotron {
+  padding-top: 5rem;
+  background-image: url(img/bg-head.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 0 -100px;
+  height: 410px;
+  color: #ffffff;
+}
+
+#projects {
+  min-height: 500px;
+}
+
+section {
+  padding-top: 5rem;
+}
